@@ -1,0 +1,10 @@
+D:\tapasya\car\car\bin\Debug\car.exe
+D:\tapasya\car\car\bin\Debug\car.pdb
+D:\tapasya\car\car\obj\x86\Debug\car.Form1.resources
+D:\tapasya\car\car\obj\x86\Debug\car.Properties.Resources.resources
+D:\tapasya\car\car\obj\x86\Debug\car.csproj.GenerateResource.Cache
+D:\tapasya\car\car\obj\x86\Debug\car.exe
+D:\tapasya\car\car\obj\x86\Debug\car.pdb
+D:\tapasya\car\car\obj\x86\Debug\car.csprojResolveAssemblyReference.cache
+F:\PROJECT\car\car\obj\x86\Debug\car.exe
+F:\PROJECT\car\car\obj\x86\Debug\car.pdb
